@@ -27,7 +27,9 @@ https://github.com/user-attachments/assets/401397f1-65f8-4a02-a4db-9894e22b6439
   git clone https://github.com/rahul1705/Auction-House.git
 - Open the project in Android Studio.
 - Add your google-services.json file in the app directory for Firebase integration.
-- Set up your Razorpay API keys in the payment integration section of the code.
+- Set up your Razorpay API keys in the walletActivity.java.
+  ![Update RazorPay API key](https://github.com/user-attachments/assets/3b10edeb-e26e-43d5-b206-b1573a3c353b)
+
 - Build and run the application on your Android device or emulator.
 
 ## Usage
