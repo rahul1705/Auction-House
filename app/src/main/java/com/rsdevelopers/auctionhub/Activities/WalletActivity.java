@@ -118,7 +118,7 @@ public class WalletActivity extends AppCompatActivity implements PaymentResultLi
     public void startPayment() {
 
         final Checkout checkout = new Checkout();
-        checkout.setKeyID("rzp_test_BlXQcyRtrNKqMG");
+        checkout.setKeyID("add your key here");
 
         //        checkout.setImage(R.drawable.logo);
         try {
